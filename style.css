@@ -20,7 +20,7 @@
 header, section, footer {
     width: 100%;
     max-width: 1440px;
-    padding: 2rem 4rem;
+    padding: 2rem 3rem;
     margin: auto;
 }
 
@@ -92,7 +92,7 @@ header > div#buttons > #cad:hover {
 
 
 section#first {
-    min-height: 40vh;
+    min-height: 50vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
